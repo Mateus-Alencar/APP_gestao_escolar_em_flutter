@@ -1,10 +1,10 @@
 # Sistema de Gestão de Educadores
 
-O aplicativo é um sistema de gestão de educadores que permite o cadastro de novos professores, incluindo informações detalhadas como nome completo, e-mail, telefone, papel, período de trabalho e a classe associada. 
+O aplicativo é um sistema de gestão de educadores que permite o cadastro de novos professores, incluindo informações como nome completo, e-mail, telefone, papel, período de trabalho e a classe associada. 
 
 Com funcionalidades de busca, os usuários podem localizar educadores rapidamente por nome, período ou classe. Além disso, o sistema possibilita a edição de informações, permitindo que dados como e-mail, telefone ou período de trabalho sejam atualizados conforme necessário. 
 
-Caso seja preciso, educadores também podem ser excluídos da base de dados. Para facilitar a navegação, filtros de pesquisa permitem refinar os resultados com base no período e na classe. O sistema conta ainda com um mecanismo de autenticação, garantindo segurança no acesso às informações.
+Caso seja preciso, educadores também podem ser excluídos da base de dados. Para facilitar a navegação, filtros de pesquisa permitem refinar os resultados com base no período e na classe. O sistema também realiza a autenticação para o login inicial.
 
 # Requisitos Funcionais
 
