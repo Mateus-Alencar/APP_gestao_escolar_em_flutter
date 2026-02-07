@@ -6,7 +6,7 @@ Com funcionalidades de busca, os usuários podem localizar educadores rapidament
 
 Caso seja preciso, educadores também podem ser excluídos da base de dados. Para facilitar a navegação, filtros de pesquisa permitem refinar os resultados com base no período e na classe. O sistema também realiza a autenticação para o login inicial.
 
-# Requisitos Funcionais
+## Requisitos Funcionais
 
 1. **Cadastro de Educadores**  
    O sistema deve permitir o cadastro de novos educadores, contendo informações como nome completo, e-mail, telefone, papel, período e classe.
@@ -26,7 +26,7 @@ Caso seja preciso, educadores também podem ser excluídos da base de dados. Par
 6. **Autenticação**  
    O sistema deve realizar autenticação dos usuários no aplicativo.
 
-   # Requisitos Não Funcionais
+## Requisitos Não Funcionais
 
 1. **Usabilidade**  
    A interface deve ser intuitiva, facilitando a navegação e interação com o sistema.
@@ -48,7 +48,7 @@ Caso seja preciso, educadores também podem ser excluídos da base de dados. Par
    O sistema deve estar disponível para acesso a qualquer momento, com mínimo de tempo de inatividade.
 
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 **Flutter**  
 Utilizei o Flutter para desenvolver a interface do usuário do aplicativo, aproveitando seus recursos de alto desempenho e widgets personalizáveis, o que permite criar aplicativos nativos para Android e iOS com uma única base de código.
